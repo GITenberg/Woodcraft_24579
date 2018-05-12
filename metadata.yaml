@@ -1,0 +1,29 @@
+_repo: Woodcraft_24579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sears, George Washington
+    alias: Nessmuk
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '26594'
+    url: http://www.gutenberg.org/2009/agents/26594
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Sears
+description: ''
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping'
+- !lcc 'SK'
+- !lcc 'GV'
+title: Woodcraft
+url: http://www.gutenberg.org/ebooks/24579
